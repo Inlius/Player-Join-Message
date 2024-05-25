@@ -1,0 +1,4 @@
+name: PlayerJoinMsg
+version: '${project.version}'
+main: de.tim.playerjoinmsg.PlayerJoinMsg
+api-version: '1.20'
